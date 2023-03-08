@@ -14,14 +14,12 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #f5b4b4;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #6d42c7;
 }
 
 .App-link {
@@ -41,7 +39,7 @@ h1 {
   font-size: 30px;
   line-height: 48px;
   font-weight: 100;
-  color: white;
+  color: #6d42c7;
 }
 
 .current-city {
@@ -83,7 +81,7 @@ li:first-letter {
 }
 
 #city-input {
-  width: 40%;
+  width: 45%;
   border-radius: 30px;
   padding: 5px;
   height: 50px;
@@ -91,4 +89,10 @@ li:first-letter {
   border: 2px solid #662eed;
   text-align: center;
   text-shadow: none;
+}
+
+.footer {
+  background-color: #f5b4b4;
+  font-size: 18px;
+  color: #6d42c7;
 }
