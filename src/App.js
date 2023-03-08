@@ -10,7 +10,7 @@ function App() {
         <br />
         <small className="footer">
           <a
-            href="https://github.com/ogeoginni/My-React-Weather-App"
+            href="https://github.com/ogeoginni/My-React-Weather-App/"
             target="_blank"
             rel="noreferrer"
           >
